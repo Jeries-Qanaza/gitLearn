@@ -1,0 +1,31 @@
+.card
+{
+    background: rgba(255, 255, 255, 0.61);
+    border-radius: 20px;
+    box-shadow: 10px 0px red;
+    width: 80%;
+    margin: auto;
+    padding: 5%;
+}
+
+body
+{
+    height: 100vh;
+    display: flex;
+}
+
+.btn
+{
+    background-color: rgb(42, 122, 242);
+    border-radius: 20px;
+    width: 20%;
+    height: 40px;
+
+}
+
+.btn:hover
+{
+    background-color: rgb(170, 193, 228);
+    box-shadow: 10px 0px red;
+}
+
